@@ -7,7 +7,7 @@ function sumArray(array) {
   }
   return sum;
 }
-
+// He;;p feiuowgwiejgweiogjewioj
 // Test for sum array
 let testArray = [1, 2, 3, 4, 5]; // 15
 
